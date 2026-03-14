@@ -2,7 +2,8 @@
 
 A web application that visualizes the accuracy of national-level wind power generation forecasts in the United Kingdom. Built as a submission for a Full Stack Software Engineering challenge.
 
-![Dashboard Preview](https://via.placeholder.com/800x400?text=UK+Wind+Power+Forecast+Dashboard)
+## Live 
+![Dashboard Preview](https://asss-six-iota.vercel.app/)
 
 ## Features
 
