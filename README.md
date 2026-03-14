@@ -2,8 +2,8 @@
 
 A web application that visualizes the accuracy of national-level wind power generation forecasts in the United Kingdom. Built as a submission for a Full Stack Software Engineering challenge.
 
-## Live 
-![Dashboard Preview](https://asss-six-iota.vercel.app/)
+## Live Link
+[Live](https://asss-six-iota.vercel.app/)
 
 ## Features
 
